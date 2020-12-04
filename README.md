@@ -1,9 +1,12 @@
-# GitRepo
+
 Attempt to learn git and github
 
 Learnt something Part1
 
 learnt something Part2
 
-learnt something Part3 learnt something part4
+
+
+learnt something Part3
+learnt somethin pt4
 
